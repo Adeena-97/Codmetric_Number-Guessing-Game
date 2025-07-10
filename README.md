@@ -26,7 +26,7 @@ A beginner-level console-based game developed in C++ as part of an internship ta
 
 ## 📂 File
 
-- `guessing_game.cpp`: Full source code of the game
+- `guessing_game.txt`: Full source code of the game
 
 ## 🧾 Project Context
 
